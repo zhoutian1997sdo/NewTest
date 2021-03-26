@@ -4,3 +4,5 @@
 
 
 void test_fun(void);
+void fun2(void);
+void fun3(void);
